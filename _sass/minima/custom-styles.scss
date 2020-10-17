@@ -7,8 +7,13 @@
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
-p.feed-subscribe {
+.feed-subscribe {
   display: none;
+}
+
+.svg-icon.orange{
+  width: 0px;
+  height: 0px;
 }
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.

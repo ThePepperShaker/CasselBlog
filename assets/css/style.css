@@ -423,7 +423,9 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-p.feed-subscribe { display: none; }
+.feed-subscribe { display: none; }
+
+.svg-icon.orange { width: 0px; height: 0px; }
 
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 

@@ -1,7 +1,7 @@
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 
-Blog (here)[https://ThePepperShaker.github.io/CasselBlog/]
+Blog [here](https://ThePepperShaker.github.io/CasselBlog/)
 
 # My Blog
 Hopefully, a place to keep updated once in a while on topics I am interested in. 
